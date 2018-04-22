@@ -5,9 +5,9 @@ This project is a solution to a Freespee frontend assignment. The assignement is
 The boilerplate for this express - babel setup is taken from [vmasto's express-babel](https://codeclimate.com/github/vmasto/express-babel).
 
 The solution to the assignment is found in
-* public/scriptscode.js (JavaScript)
-* views/index.pug (markup)
-* public/styles/style.css (CSS)
+* [code](public/scripts/code.js) (JavaScript)
+* [index.pug](views/index.pug) (markup)
+* [style.css](public/styles/style.css) (CSS)
 
 ## Getting started
 
