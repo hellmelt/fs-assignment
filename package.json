@@ -4,9 +4,9 @@
   "description": "This is an oversized project for a freespee assignment",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vmasto/express-babel.git"
+    "url": "git+https://github.com/hellmelt/fs-assignment.git"
   },
-  "author": "Vassilis Mastorostergios <vmasto@gmail.com>",
+  "author": "Anders Hjelm <2@andershjelm.com>",
   "license": "MIT",
   "main": "dist/index.js",
   "engines": {
